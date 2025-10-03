@@ -49,4 +49,4 @@ cd music-player
 
 💡3 - Abra o arquivo index.html no navegador de sua preferência.
 
-4 - Aproveite o player! 🎧
+4 - Aproveite o player! 🎧💞
